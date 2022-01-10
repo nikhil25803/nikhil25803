@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil25803&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil25803&theme=dark" /></a>
+
 <!---
 nikhil25803/nikhil25803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
