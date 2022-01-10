@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Development Projects
 - 📫 Reach me through nikhil25803@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil25803&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 nikhil25803/nikhil25803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
