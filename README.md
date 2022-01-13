@@ -8,6 +8,8 @@
 
 <!-- <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil25803&theme=dark" /></a> -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil25803&label=Profile%20views&color=0e75b6&style=flat" alt="srinjoyray" /> </p>
+
 <!---
 nikhil25803/nikhil25803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
