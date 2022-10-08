@@ -1,7 +1,7 @@
 [![image](https://www.linkpicture.com/q/Blue-and-Yellow-Motivational-LinkedIn-Banner-1.gif)](https://www.linkpicture.com/view.php?img=LPic62d1fb66bd5f41767395871)
 
 
-- 🌱 Currently learning Machine LEarning and DSA
+- 🌱 Currently learning Machine Learning and DSA
 - 🤝 I’m looking to collaborate on Open-Source Projects
 - 💬 Ask me about Python and Django 🤝
 - 👨‍💻 Loves to explore
