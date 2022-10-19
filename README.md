@@ -1,5 +1,5 @@
 `A bit about me 🧐`
-```powershell
+```python
 $ pip install nikhil25803
 Collecting nikhil25803
   Downloading nikhil25803-0.1.tar.gz (5.7 kB)
