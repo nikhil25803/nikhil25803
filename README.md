@@ -1,12 +1,29 @@
-[![image](https://www.linkpicture.com/q/Blue-and-Yellow-Motivational-LinkedIn-Banner-1.gif)](https://www.linkpicture.com/view.php?img=LPic62d1fb66bd5f41767395871)
+`A bit about me 🧐`
+```powershell
+$ pip install nikhil25803
+Collecting nikhil25803
+  Downloading nikhil25803-0.1.tar.gz (5.7 kB)
+  Preparing metadata (setup.py) ... done
 
+Installing collected packages: nikhil25803
+Successfully installed nikhil25803-0.1
 
-- 🌱 Currently learning Machine Learning and DSA
-- 🤝 I’m looking to collaborate on Open-Source Projects
-- 💬 Ask me about Python and Django 🤝
-- 👨‍💻 Loves to explore
-- 📫 Reach me at **nikhil25803@gmail.com**
+$ python
 
+>>> from nikhil25803 import README
+>>> README.md()
+
+{
+    "About" : "Hi, Nikhi this side 👋",
+    "I'm a" : "Backened Developer",
+    "Learning" : "Machine Learning and DSA",
+    "Looking to " : "Collaborate on Open-Source projects",
+    "Loves to" : "Explore different technologies",
+    "Reach me at" : "nikhil25803@gmail.com"
+}
+
+>>> exit()
+```
 
 ---
 
@@ -24,28 +41,20 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ## 🔦Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <br>
 
