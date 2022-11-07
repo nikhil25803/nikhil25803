@@ -14,8 +14,8 @@ $ python
 >>> README.md()
 
 {
-    "About" : "Hi, Nikhi this side 👋",
-    "I'm a" : "Backened Developer",
+    "About" : "Hi, Nikhil this side 👋",
+    "I'm" : "Into Backend Development",
     "Learning" : "Machine Learning and DSA",
     "Looking to " : "Collaborate on Open-Source projects",
     "Loves to" : "Explore different technologies",
