@@ -16,7 +16,7 @@ $ python
 {
     "About" : "Hi, Nikhil this side 👋",
     "I'm" : "Into Backend Development",
-    "Learning" : "Machine Learning and DSA",
+    "Learning" : "Deep Learning and Neural Networks",
     "Looking to " : "Collaborate on Open-Source projects",
     "Loves to" : "Explore different technologies",
     "Reach me at" : "nikhil25803@gmail.com"
