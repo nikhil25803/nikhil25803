@@ -52,14 +52,20 @@ $ python
 ## 🔦Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<br>
 
-<!-- <br>
+<!-- 
+<br>
 
 <p align="">
 <a href="https://github.com/KKhushhalR2405">
@@ -68,21 +74,34 @@ $ python
 </a>
 </p> -->
 
-
 ----
 
-<table align="center">
+<!-- <table align="center">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil25803&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<td>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikhil25803&show_icons=true&theme=radical&count_private=true"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=nikhil25803&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhil25803&layout=compact&langs_count=8&theme=radical"/>
 </td>
 </tr>
 </table>
-<br />
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil25803&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
-</p>
+</p> -->
+
+---
+
+<table>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=nikhil25803&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil25803&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil25803&theme=dark" alt="SauravMukherjee" /></p>
+  </div>
 
 ---
