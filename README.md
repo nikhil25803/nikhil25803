@@ -16,7 +16,7 @@ $ python
 {
     "About" : "Hi, Nikhil this side 👋",
     "I'm" : "Into Backend Development",
-    "Learning" : "Machine Learning and DSA",
+    "Learning" : "Deep Learning and Neural Networks",
     "Looking to " : "Collaborate on Open-Source projects",
     "Loves to" : "Explore different technologies",
     "Reach me at" : "nikhil25803@gmail.com"
@@ -62,33 +62,6 @@ $ python
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-
-<!-- 
-<br>
-
-<p align="">
-<a href="https://github.com/KKhushhalR2405">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikhil25803&show_icons=true&theme=radical&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhil25803&layout=compact&langs_count=8&theme=radical"/>
-</a>
-</p> -->
-
-----
-
-<!-- <table align="center">
-<tr>
-<td>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikhil25803&show_icons=true&theme=radical&count_private=true"/>
-</td>
-<td>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhil25803&layout=compact&langs_count=8&theme=radical"/>
-</td>
-</tr>
-</table>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil25803&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
-</p> -->
 
 ---
 
