@@ -48,12 +48,13 @@
 | ------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | Jinx                                              | `Go`                                                    | A reverse proxy server inspired by NGINX, written in Go.                             |
 | [Akshara](https://github.com/nikhil25803/akshara) | `Python` `FastAPI` `PaddleOCR` `PyMuPDF` `Docker`       | A local-first document intelligence engine for extracting text from images and PDFs. |
-| [Reaper](https://github.com/nikhil25803/reaper)   | `Python` `Typer` `Rich` `Graphify` `llama.cpp` `Docker` | A language-agnostic tool for graph-assisted dead-code detection and analysis.        |
+
 
 ## Recent Projects
 
 | Name                                                    | Stack                                            | Description                                                                            |
 | ------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------------------------------------------------- |
 | [Kafkaesque](https://github.com/nikhil25803/kafkaesque) | `Go` `Apache Kafka` `HTMX` `PostgreSQL` `Docker` | A read-only Kafka monitoring dashboard, API, and CLI for understanding cluster health. |
+| [Reaper](https://github.com/nikhil25803/reaper)   | `Python` `Typer` `Rich` `Graphify` `llama.cpp` `Docker` | A language-agnostic tool for graph-assisted dead-code detection and analysis.        |
 | [Wordly](https://github.com/nikhil25803/wordly)         | `Go` `Bubble Tea` `Lip Gloss` `SQLite` `Cobra`   | A daily terminal word game with persistent statistics and cross-platform releases.     |
 | [Purrpeek](https://github.com/nikhil25803/purrpeek)     | `Go` `Cobra` `gopsutil` `ghw`                    | A cross-platform CLI for viewing system information from a cat's perspective.          |
